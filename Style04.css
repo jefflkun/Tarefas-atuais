@@ -1,0 +1,136 @@
+#Logo{
+	background-color:#fff;
+	color:black;
+	border-radius: 10px;
+	margin: 100px 460px 0px;
+	padding: 15px;
+	padding-top: 5px;
+
+}
+
+
+.item1 {
+	margin: 2px;
+	background:#f2f1f1;
+	font-size: 15px;
+	border-radius: 3px;
+	font-family: times new roman;
+	margin: 20px 40px 0px 0;
+	width: 250px;
+	height: 30px;
+
+}
+.item001{
+	background:#3070ba;
+	color: white;
+	width: 80px;
+	height: 35px;
+	border-radius: 5px;
+	font-size: 15px;
+	border:none;
+
+}
+.item002{
+	width: 100px;
+	height: 30px;
+	color: #3070ba;
+	font-size: 18px;
+
+
+}
+
+.item003{
+	background:#3070ba;
+	color: white;
+	width: 130px;
+	height: 35px;
+	border-radius: 5px;
+	font-size: 15px;
+	border:none;
+
+}
+
+.btn{
+	font-family: arial;
+	font-size: 14px;
+	font-weight: 600;
+	border:none;
+	padding: 5px;
+	cursor: pointer;
+	color: white;
+	border-radius: 3px;
+
+}
+.btn:active{
+	position: relative;
+	top: 5px;
+	box-shadow: none;
+}
+
+.btn-blue{
+	background-color: #424e93;
+	box-shadow: 0 2px #455196;
+}
+
+.btn-blue:hover{
+	background-color: #2e3c8f;
+	box-shadow: 0 2px #2e3c8f;
+
+}
+
+.btn-red{
+	background-color: #eb2300;
+	box-shadow: 0 2px #ed2d18;
+
+}
+
+.btn-red:hover{
+	background-color: #bf2211;
+	box-shadow: 0 2px #bf2211;
+}
+
+.btn-white{
+	background-color: #00a0dc;
+	box-shadow: 0 2px #00a4de;
+}
+
+.btn-white:hover{
+	background-color: #0a9dd1;
+	box-shadow: 0 2px #0a9dd1;
+}
+
+.icones{
+	height: 12px;
+	width: 20px;
+
+
+
+
+}
+h1 {
+	margin: 20px 185px 0px 0;
+	font-size: 22px;
+	font-weight: normal;
+	font-family: arial;
+	color: #565656;
+}
+
+body {
+	font-family: arial;
+	color: #333;
+	text-align: center;
+	font-size: 40px;
+	background-color: #dedede;
+
+
+
+}
+
+hr{
+	width: 72%;
+
+}
+
+a:link{
+	text-decoration: none;
+}
